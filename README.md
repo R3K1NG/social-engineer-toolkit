@@ -4,7 +4,7 @@ Copyright 2020 The Social-Engineer Toolkit (SET)
 
 Written by: David Kennedy (ReL1K) @HackingDave
 
-Company: [TrustedSec](https://www.trustedsec.com)
+Company: [easypc.ir](https://www.easypc.ir)
 
 DISCLAIMER: This is *only* for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
 
@@ -13,7 +13,7 @@ Please read the LICENSE under readme/LICENSE for the licensing of SET.
 
 # :book: &nbsp; SET Tutorial &nbsp; :book:
 
-For a full document on how to use SET, [visit the SET user manual](https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/User_Manual.pdf).
+For a full document on how to use SET, [visit the SET user manual](https://github.com/R3K1NG/social-engineer-toolkit/raw/master/readme/User_Manual.pdf).
 
 
 # :computer: &nbsp; Features &nbsp; :computer:
@@ -24,7 +24,7 @@ The Social-Engineer Toolkit is an open-source penetration testing framework desi
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/trustedsec/social-engineer-toolkit/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/R3K1NG/social-engineer-toolkit/issues) here.
 
 
 ## Supported platforms
@@ -52,7 +52,7 @@ python setup.py
 *All OSs*
 
 ```bash
-git clone https://github.com/trustedsec/social-engineer-toolkit/ setoolkit/
+git clone https://github.com/R3K1NG/social-engineer-toolkit/ setoolkit/
 cd setoolkit
 pip3 install -r requirements.txt
 python setup.py
